@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ADEK.Web.props" />
+</Project>

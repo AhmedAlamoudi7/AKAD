@@ -1,0 +1,12 @@
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\bin\Debug\net7.0\ADEK.Core.deps.json
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\bin\Debug\net7.0\ADEK.Core.dll
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\bin\Debug\net7.0\ADEK.Core.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\obj\Debug\net7.0\ADEK.Core.csproj.AssemblyReference.cache
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\obj\Debug\net7.0\ADEK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\obj\Debug\net7.0\ADEK.Core.AssemblyInfoInputs.cache
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\obj\Debug\net7.0\ADEK.Core.AssemblyInfo.cs
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\obj\Debug\net7.0\ADEK.Core.csproj.CoreCompileInputs.cache
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\obj\Debug\net7.0\ADEK.Core.dll
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\obj\Debug\net7.0\refint\ADEK.Core.dll
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\obj\Debug\net7.0\ADEK.Core.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Core\obj\Debug\net7.0\ref\ADEK.Core.dll

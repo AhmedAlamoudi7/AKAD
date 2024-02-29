@@ -1,0 +1,17 @@
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\bin\Debug\net7.0\ADEK.Infrastructure.deps.json
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\bin\Debug\net7.0\ADEK.Infrastructure.dll
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\bin\Debug\net7.0\ADEK.Infrastructure.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\bin\Debug\net7.0\ADEK.Core.dll
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\bin\Debug\net7.0\ADEK.Data.dll
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\bin\Debug\net7.0\ADEK.Data.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\bin\Debug\net7.0\ADEK.Core.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\ADEK.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\ADEK.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\ADEK.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\ADEK.Infrastructure.AssemblyInfo.cs
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\ADEK.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\ADEK.Infrastructure.csproj.CopyComplete
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\ADEK.Infrastructure.dll
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\refint\ADEK.Infrastructure.dll
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\ADEK.Infrastructure.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\ADEK.Web\ADEK.Infrastructure\obj\Debug\net7.0\ref\ADEK.Infrastructure.dll
